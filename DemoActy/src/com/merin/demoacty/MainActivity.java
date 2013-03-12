@@ -56,7 +56,7 @@ public class MainActivity extends Activity {
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
 				etext_string = etext1.getText().toString();
-				startintent1.putExtra("ACTION_MSG", etext_string);
+				startintent1.putExtra("ACTION_MSG", etext_string); 
 				
 				startActivity(startintent1);
 				finish();

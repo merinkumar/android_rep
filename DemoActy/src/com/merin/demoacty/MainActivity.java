@@ -16,9 +16,9 @@ public class MainActivity extends Activity {
 	
 	EditText etext1;
 	String etext_string;
-	String intentmsg1;     //testing
+	String intentmsg1;     //testing1 
 	
-	Bundle extras1;
+	Bundle extras1; //testing 2
 	//String ACTION_MSG;
 	//private Intent startintent1 = new Intent(this, SecondaryActivity.class);
 	

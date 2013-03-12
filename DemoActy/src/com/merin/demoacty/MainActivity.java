@@ -16,7 +16,7 @@ public class MainActivity extends Activity {
 	
 	EditText etext1;
 	String etext_string;
-	String intentmsg1;
+	String intentmsg1;     //testing
 	
 	Bundle extras1;
 	//String ACTION_MSG;

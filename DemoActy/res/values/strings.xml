@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoActy</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_secondary">SecondaryActivity</string>
+    <string name="welcome_msg1">Welcome to main activity</string>
+    <string name="main_menu1">What would you like to do ?</string>
+    <string name="text_msg1">Enter your msg</string>
+    <string name="welcome_msg2">Welcome to secondary screen</string>
+    <string name="button_text1">Go Back</string>
+    <string name="button_text2">Exit</string>
+    <string name="button_text3">Next Screen</string>
+    <string name="msg_lable">Message from previous screen :</string>
+
+</resources>
